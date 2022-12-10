@@ -4,3 +4,21 @@ When I was a kid, I thought If you get cancer, it means you're dead. One of the 
 
 
 
+
+
+
+
+Documentation
+
+
+python version = 3.10
+
+pip packages used 
+
+- pandas
+- openpyxl
+- matplotlib
+
+
+
+
